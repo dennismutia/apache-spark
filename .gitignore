@@ -1,0 +1,5 @@
+*.pyc
+*_SUCCESS
+*._SUCCESS.crc
+*.crc
+*c000.csv
